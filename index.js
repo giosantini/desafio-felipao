@@ -1,1 +1,3 @@
-console.log("bu")
+let nome = "giovanni"
+
+console.log(nome)
