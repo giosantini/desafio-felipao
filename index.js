@@ -1,7 +1,12 @@
-let nome = "giovanni"
-let XP = 1000
+const mensagem = "seu herói de nome "
+const mensagemii = "seu herói de nome "
+
+let nomeHeroi = "giovanni"
+let XP = 99
+let nivel = 
 
 if(XP <= 1000)
 {
-    console.log("seu herói de nome " + nome, "esta no nível de " + XP)
+    console.log(mensagem + nomeHeroi, mensagemii + XP)
 }
+
